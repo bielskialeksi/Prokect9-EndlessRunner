@@ -6,11 +6,21 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/Actors/BP_RunChatacter.uasset",
-				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/Levels/RunnerMap.umap",
 				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/Controlers/BP_RunCharacterController.uasset",
 				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/Levels/RunMap.umap",
-				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/GameModes/RunGameMode.uasset"
+				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/GameModes/RunGameMode.uasset",
+				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/Actors/BP_Piste.uasset",
+				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/Actors/Bp_PisteManager.uasset",
+				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/Actors/BP_RunCharacter.uasset",
+				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/Actors/Obstacle.uasset",
+				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/Actors/BP_RockObstacle.uasset",
+				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/StarterContent/Props/SM_Rock.uasset",
+				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/Actors/Bp_RockObstacles.uasset",
+				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/StarterContent/Shapes/Shape_Torus.uasset",
+				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/Actors/BP_Coin.uasset",
+				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/Levels/CoinPrinter.uasset",
+				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/Actors/BP_RunChatacter.uasset",
+				"E:/projet actuel/Prokect9-EndlessRunner/MyProject/Content/Levels/RunnerMap.umap"
 			]
 		}
 	]
